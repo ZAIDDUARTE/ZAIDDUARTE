@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zaid Duarte</h1>
 <h3 align="center">A passionate frontend, backend, and AI developer.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=zaidduarte&label=Profile%20views&color=0e75b6&style=flat](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)" alt="zaidduarte" /> </p>
+<p align="left">
+  <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" alt="Front-end Development" width="500" height="300" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidduarte" alt="zaidduarte" /></a> </p>
 
